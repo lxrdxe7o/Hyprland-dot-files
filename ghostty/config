@@ -1,0 +1,16 @@
+## Clipboard
+clipboard-read = "allow"
+clipboard-paste-protection = false
+
+## Background
+background-opacity = 0.9
+
+## Theme
+theme = GruvboxDarkHard
+font-family = MesloLGS Nerd Font
+font-size = 16
+
+## Cursor
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = true
