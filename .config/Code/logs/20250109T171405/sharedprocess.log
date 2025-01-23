@@ -1,0 +1,186 @@
+2025-01-09 17:19:11.362 [info] Getting Manifest... eamodio.gitlens
+2025-01-09 17:19:11.589 [info] Installing extension: eamodio.gitlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-09 17:19:16.723 [info] Extension signature verification result for eamodio.gitlens: UnknownError. Executed: true. Duration: 23ms.
+2025-01-09 17:19:17.575 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1: eamodio.gitlens
+2025-01-09 17:19:17.621 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1
+2025-01-09 17:19:17.704 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:19:17.744 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:21:35.819 [info] Getting Manifest... ms-vscode.cpptools
+2025-01-09 17:21:36.000 [info] Installing extension: ms-vscode.cpptools {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-09 17:22:39.819 [info] Extension signature verification result for ms-vscode.cpptools: UnknownError. Executed: true. Duration: 12ms.
+2025-01-09 17:22:44.664 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/ms-vscode.cpptools-1.22.11-linux-x64: ms-vscode.cpptools
+2025-01-09 17:22:44.696 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/ms-vscode.cpptools-1.22.11-linux-x64
+2025-01-09 17:22:44.766 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:22:44.808 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:24:34.685 [info] Getting Manifest... vscjava.vscode-java-pack
+2025-01-09 17:24:34.871 [info] Installing extension: vscjava.vscode-java-pack {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-09 17:24:36.795 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2025-01-09 17:24:37.336 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2025-01-09 17:24:37.396 [info] Getting Manifest... redhat.java
+2025-01-09 17:24:37.657 [info] Getting Manifest... vscjava.vscode-java-debug
+2025-01-09 17:24:37.714 [info] Getting Manifest... vscjava.vscode-maven
+2025-01-09 17:24:37.772 [info] Getting Manifest... vscjava.vscode-java-test
+2025-01-09 17:24:37.828 [info] Getting Manifest... vscjava.vscode-java-dependency
+2025-01-09 17:24:37.885 [info] Getting Manifest... vscjava.vscode-gradle
+2025-01-09 17:24:38.054 [info] Installing extension: visualstudioexptteam.vscodeintellicode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-09 17:24:38.055 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-09 17:24:38.055 [info] Installing extension: redhat.java {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-09 17:24:38.055 [info] Installing extension: vscjava.vscode-java-debug {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-09 17:24:38.056 [info] Installing extension: vscjava.vscode-maven {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-09 17:24:38.056 [info] Installing extension: vscjava.vscode-java-test {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-09 17:24:38.056 [info] Installing extension: vscjava.vscode-java-dependency {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-09 17:24:38.056 [info] Installing extension: vscjava.vscode-gradle {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-09 17:24:42.029 [info] Extension signature verification result for vscjava.vscode-java-dependency: UnknownError. Executed: true. Duration: 16ms.
+2025-01-09 17:24:42.079 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/vscjava.vscode-java-dependency-0.24.1: vscjava.vscode-java-dependency
+2025-01-09 17:24:42.088 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/vscjava.vscode-java-dependency-0.24.1
+2025-01-09 17:24:42.180 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:24:47.635 [info] Extension signature verification result for vscjava.vscode-java-pack: UnknownError. Executed: true. Duration: 11ms.
+2025-01-09 17:24:47.872 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/vscjava.vscode-java-pack-0.29.0: vscjava.vscode-java-pack
+2025-01-09 17:24:47.883 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/vscjava.vscode-java-pack-0.29.0
+2025-01-09 17:24:47.976 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:24:50.593 [info] Extension signature verification result for vscjava.vscode-java-test: UnknownError. Executed: true. Duration: 12ms.
+2025-01-09 17:24:50.759 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/vscjava.vscode-java-test-0.43.0: vscjava.vscode-java-test
+2025-01-09 17:24:50.770 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/vscjava.vscode-java-test-0.43.0
+2025-01-09 17:24:50.867 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:24:52.607 [info] Extension signature verification result for visualstudioexptteam.intellicode-api-usage-examples: UnknownError. Executed: true. Duration: 11ms.
+2025-01-09 17:24:52.942 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9: visualstudioexptteam.intellicode-api-usage-examples
+2025-01-09 17:24:52.952 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9
+2025-01-09 17:24:53.045 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:25:00.782 [info] Extension signature verification result for vscjava.vscode-java-debug: UnknownError. Executed: true. Duration: 11ms.
+2025-01-09 17:25:00.877 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/vscjava.vscode-java-debug-0.58.1: vscjava.vscode-java-debug
+2025-01-09 17:25:00.888 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/vscjava.vscode-java-debug-0.58.1
+2025-01-09 17:25:00.980 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:25:06.878 [info] Extension signature verification result for vscjava.vscode-maven: UnknownError. Executed: true. Duration: 12ms.
+2025-01-09 17:25:07.290 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/vscjava.vscode-maven-0.44.0: vscjava.vscode-maven
+2025-01-09 17:25:07.300 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/vscjava.vscode-maven-0.44.0
+2025-01-09 17:25:07.393 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:26:16.011 [info] Extension signature verification result for vscjava.vscode-gradle: UnknownError. Executed: true. Duration: 13ms.
+2025-01-09 17:26:17.296 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/vscjava.vscode-gradle-3.16.4: vscjava.vscode-gradle
+2025-01-09 17:26:17.314 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/vscjava.vscode-gradle-3.16.4
+2025-01-09 17:26:17.410 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:26:38.471 [info] Extension signature verification result for visualstudioexptteam.vscodeintellicode: UnknownError. Executed: true. Duration: 14ms.
+2025-01-09 17:26:39.332 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2: visualstudioexptteam.vscodeintellicode
+2025-01-09 17:26:39.348 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2
+2025-01-09 17:26:39.438 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:27:02.534 [info] Extension signature verification result for redhat.java: UnknownError. Executed: true. Duration: 11ms.
+2025-01-09 17:27:05.177 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64: redhat.java
+2025-01-09 17:27:05.215 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64
+2025-01-09 17:27:05.278 [info] Extension installed successfully: vscjava.vscode-java-dependency vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:27:05.280 [info] Extension installed successfully: vscjava.vscode-java-pack vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:27:05.280 [info] Extension installed successfully: vscjava.vscode-java-test vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:27:05.280 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:27:05.280 [info] Extension installed successfully: vscjava.vscode-java-debug vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:27:05.280 [info] Extension installed successfully: vscjava.vscode-maven vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:27:05.280 [info] Extension installed successfully: vscjava.vscode-gradle vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:27:05.281 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:27:05.281 [info] Extension installed successfully: redhat.java vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:27:05.311 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:29:20.041 [info] Getting Manifest... vscodevim.vim
+2025-01-09 17:29:20.411 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-09 17:29:31.502 [info] Extension signature verification result for vscodevim.vim: UnknownError. Executed: true. Duration: 13ms.
+2025-01-09 17:29:31.581 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/vscodevim.vim-1.29.0: vscodevim.vim
+2025-01-09 17:29:31.589 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/vscodevim.vim-1.29.0
+2025-01-09 17:29:31.664 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:29:31.684 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:29:32.314 [info] Getting Manifest... github.copilot-chat
+2025-01-09 17:29:32.491 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-09 17:29:33.448 [info] Getting Manifest... github.copilot
+2025-01-09 17:29:33.505 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json","path":"/home/lxrdxe7o/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"}}
+2025-01-09 17:29:33.559 [info] Getting Manifest... github.copilot
+2025-01-09 17:29:33.673 [info] Waiting for already requested installing extension github.copilot github.copilot-chat vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:29:36.756 [info] Getting Manifest... github.copilot-chat
+2025-01-09 17:29:41.268 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 14ms.
+2025-01-09 17:29:41.939 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/github.copilot-chat-0.23.2: github.copilot-chat
+2025-01-09 17:29:41.950 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/github.copilot-chat-0.23.2
+2025-01-09 17:29:42.048 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-09 17:29:49.333 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 13ms.
+2025-01-09 17:29:50.303 [info] Extracted extension to file:///home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0: github.copilot
+2025-01-09 17:29:50.322 [info] Renamed to /home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0
+2025-01-09 17:29:50.409 [info] Extension installed successfully: github.copilot vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:29:50.410 [info] Finished waiting for already requested installing extension github.copilot github.copilot-chat vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:29:50.411 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/lxrdxe7o/.vscode/extensions/extensions.json
+2025-01-09 17:29:50.418 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lxrdxe7o/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

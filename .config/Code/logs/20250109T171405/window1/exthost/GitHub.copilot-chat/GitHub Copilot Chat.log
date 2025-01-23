@@ -1,0 +1,55 @@
+2025-01-09 17:29:53.369 [info] Using the Electron fetcher.
+2025-01-09 17:29:53.369 [info] Initializing Git extension service.
+2025-01-09 17:29:53.369 [info] Successfully activated the vscode.git extension.
+2025-01-09 17:29:53.369 [info] Enablement state of the vscode.git extension: true.
+2025-01-09 17:29:53.369 [info] Successfully registered Git commit message provider.
+2025-01-09 17:29:55.475 [info] Logged in as lxrdxe7o
+2025-01-09 17:29:56.417 [info] Got Copilot token for lxrdxe7o
+2025-01-09 17:29:56.804 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-01-09 17:29:56.804 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-01-09 17:29:56.820 [info] Registering default platform agent...
+2025-01-09 17:29:57.851 [info] Fetched model metadata in 1424ms 15966033-b677-4b1b-b05c-f07ed51b51cc
+2025-01-09 17:29:57.854 [info] activationBlocker from 'languageModelAccess' took for 2153ms
+2025-01-09 17:32:40.964 [info] Logged in as lxrdxe7o
+2025-01-09 17:32:41.898 [info] Got Copilot token for lxrdxe7o
+2025-01-09 17:32:41.915 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-01-09 17:33:01.979 [info] message 0 returned. finish reason: [stop]
+2025-01-09 17:33:01.982 [info] request done: requestId: [ead9d196-789e-4fe3-9dd2-4e05d3c5fd77] model deployment ID: []
+2025-01-09 17:33:02.897 [info] message 0 returned. finish reason: [stop]
+2025-01-09 17:33:02.898 [info] request done: requestId: [649eff34-373c-4838-a289-b3e43c75334d] model deployment ID: []
+2025-01-09 17:33:03.514 [info] message 0 returned. finish reason: [stop]
+2025-01-09 17:33:03.515 [info] request done: requestId: [3464784d-11ce-484c-9919-5dedcc263a71] model deployment ID: []
+2025-01-09 17:33:03.519 [info] message 0 returned. finish reason: [stop]
+2025-01-09 17:33:03.520 [info] request done: requestId: [d7da6d8c-398f-4c4d-9e39-547e543b42d6] model deployment ID: []
+2025-01-09 17:34:43.345 [info] Using the Electron fetcher.
+2025-01-09 17:34:43.345 [info] Initializing Git extension service.
+2025-01-09 17:34:43.345 [info] Successfully activated the vscode.git extension.
+2025-01-09 17:34:43.345 [info] Enablement state of the vscode.git extension: true.
+2025-01-09 17:34:43.345 [info] Successfully registered Git commit message provider.
+2025-01-09 17:34:45.793 [info] Logged in as lxrdxe7o
+2025-01-09 17:34:46.696 [info] Got Copilot token for lxrdxe7o
+2025-01-09 17:34:46.777 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-01-09 17:34:46.777 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-01-09 17:34:46.785 [info] Registering default platform agent...
+2025-01-09 17:34:47.119 [info] Fetched model metadata in 412ms 34979ca0-b928-4ece-b496-4f5b373e94c0
+2025-01-09 17:34:47.122 [info] activationBlocker from 'languageModelAccess' took for 1742ms
+2025-01-09 17:49:49.492 [info] Fetched model metadata in 1877ms a4f6b332-a670-4106-9694-4cae196ff620
+2025-01-09 17:59:46.708 [info] Logged in as lxrdxe7o
+2025-01-09 17:59:47.721 [info] Got Copilot token for lxrdxe7o
+2025-01-09 17:59:47.738 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-01-09 18:12:15.181 [info] Using the Electron fetcher.
+2025-01-09 18:12:15.181 [info] Initializing Git extension service.
+2025-01-09 18:12:15.181 [info] Successfully activated the vscode.git extension.
+2025-01-09 18:12:15.181 [info] Enablement state of the vscode.git extension: true.
+2025-01-09 18:12:15.181 [info] Successfully registered Git commit message provider.
+2025-01-09 18:12:17.706 [info] Logged in as lxrdxe7o
+2025-01-09 18:12:18.695 [info] Got Copilot token for lxrdxe7o
+2025-01-09 18:12:18.808 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-01-09 18:12:18.808 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-01-09 18:12:18.831 [info] Registering default platform agent...
+2025-01-09 18:12:19.860 [info] Fetched model metadata in 1149ms 0159b1ea-e257-47f7-9969-9edac082a58b
+2025-01-09 18:12:19.950 [info] activationBlocker from 'languageModelAccess' took for 4649ms
+2025-01-09 18:19:16.532 [info] message 0 returned. finish reason: [stop]
+2025-01-09 18:19:16.535 [info] request done: requestId: [23cdd2c3-0e30-4149-a00a-911aa7db32f4] model deployment ID: []
+2025-01-09 18:19:16.537 [info] [inline fix] Problems generating edits: No patch sections found [no patch], invalid patches: 0
+2025-01-09 18:27:21.826 [info] Fetched model metadata in 1043ms e50a149b-2264-4b3d-b271-76585029908f

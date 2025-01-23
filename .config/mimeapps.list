@@ -1,0 +1,7 @@
+[Default Applications]
+inode/directory=thunar.desktop
+application/x-wayland-gnome-saved-search=thunar.desktop
+x-scheme-handler/eclipse+installer=_home_lxrdxe7o_Documents_eclipse-installer_.desktop
+
+[Added Associations]
+application/pdf=okularApplication_pdf.desktop;libreoffice-draw.desktop;

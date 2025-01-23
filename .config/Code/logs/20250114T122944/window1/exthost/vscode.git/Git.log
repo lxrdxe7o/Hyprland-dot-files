@@ -1,0 +1,19 @@
+2025-01-14 12:29:56.437 [info] [main] Log level: Info
+2025-01-14 12:29:56.437 [info] [main] Validating found git in: "git"
+2025-01-14 12:29:56.437 [info] [main] Using git "2.47.1" from "git"
+2025-01-14 12:29:56.437 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-14 12:29:56.437 [info] > git rev-parse --show-toplevel [2859ms]
+2025-01-14 12:29:56.437 [info] > git rev-parse --git-dir --git-common-dir [124ms]
+2025-01-14 12:29:56.437 [info] [Model][openRepository] Opened repository: /home/lxrdxe7o/Git-repos/215_Project
+2025-01-14 12:29:56.552 [info] > git rev-parse --show-toplevel [69ms]
+2025-01-14 12:29:56.554 [info] > git config --get commit.template [91ms]
+2025-01-14 12:29:56.685 [info] > git rev-parse --show-toplevel [50ms]
+2025-01-14 12:29:56.722 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms]
+2025-01-14 12:29:56.757 [info] > git rev-parse --show-toplevel [38ms]
+2025-01-14 12:29:56.793 [info] > git rev-parse --show-toplevel [10ms]
+2025-01-14 12:30:00.403 [info] > git status -z -uall [3526ms]
+2025-01-14 12:30:00.403 [info] > git check-ignore -v -z --stdin [318ms]
+2025-01-14 12:30:00.413 [info] > git rev-parse --show-toplevel [413ms]
+2025-01-14 12:30:00.426 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3521ms]
+2025-01-14 12:30:00.497 [info] > git fetch [4084ms]
+2025-01-14 12:30:00.671 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [182ms]

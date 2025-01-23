@@ -1,0 +1,13 @@
+[ExtractDialog]
+1536x864 screen: Height=543
+1536x864 screen: Width=1018
+1920x1080 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/Downloads/,$HOME/Pictures/,/run/media/lxrdxe7o/67F7-B0A1/,$HOME/Documents/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled

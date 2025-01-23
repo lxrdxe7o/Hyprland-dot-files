@@ -1,0 +1,295 @@
+2025-01-09 17:29:55.316 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Sae.removeExpiredCertificates (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:77:32)
+    at Sae.getAllRootCAs (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:68:38)
+    at pme.createSecureContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-01-09 17:29:55.316 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Sae.removeExpiredCertificates (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:77:32)
+    at Sae.getAllRootCAs (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:68:38)
+    at pme.createSecureContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-01-09 17:29:55.316 [info] [certificates] Removed 2 expired certificates
+2025-01-09 17:29:56.083 [info] [fetcher] Using Helix fetcher.
+2025-01-09 17:29:56.430 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:29:56.746 [info] [fetcher] Using Helix fetcher.
+2025-01-09 17:29:56.746 [info] [code-referencing] Public code references are enabled.
+2025-01-09 17:30:11.422 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:32:41.527 [info] [fetcher] Using Helix fetcher.
+2025-01-09 17:32:41.527 [info] [code-referencing] Public code references are enabled.
+2025-01-09 17:32:41.529 [info] [fetcher] Using Helix fetcher.
+2025-01-09 17:32:41.529 [info] [code-referencing] Public code references are enabled.
+2025-01-09 17:32:56.262 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at listOnTimeout (node:internal/timers:545:9)
+    at processTimers (node:internal/timers:519:7)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:34:45.110 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Sae.removeExpiredCertificates (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:77:32)
+    at Sae.getAllRootCAs (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:68:38)
+    at pme.createSecureContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-01-09 17:34:45.110 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Sae.removeExpiredCertificates (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:77:32)
+    at Sae.getAllRootCAs (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:68:38)
+    at pme.createSecureContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-01-09 17:34:45.110 [info] [certificates] Removed 2 expired certificates
+2025-01-09 17:34:45.979 [info] [fetcher] Using Helix fetcher.
+2025-01-09 17:34:46.310 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:34:46.348 [info] [fetcher] Using Helix fetcher.
+2025-01-09 17:34:46.348 [info] [code-referencing] Public code references are enabled.
+2025-01-09 17:35:01.311 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:35:50.793 [warning] [relatedFiles] unknown language java
+2025-01-09 17:35:52.202 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 705 ms
+2025-01-09 17:35:52.213 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-09 17:35:52.215 [info] [streamChoices] request done: headerRequestId: [fed05e2a-07c7-484e-9d55-a53634223fc0] model deployment ID: [d054-20241214071018]
+2025-01-09 17:35:59.889 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 207 ms
+2025-01-09 17:35:59.896 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-09 17:35:59.898 [info] [streamChoices] request done: headerRequestId: [95c59004-de2d-4626-a485-7b6bef7abae4] model deployment ID: [d054-20241214071018]
+2025-01-09 17:36:03.419 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 203 ms
+2025-01-09 17:36:03.425 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-09 17:36:03.426 [info] [streamChoices] request done: headerRequestId: [025b6e88-bb8a-4c19-b33c-ce6d0d7b7202] model deployment ID: [d054-20241214071018]
+2025-01-09 17:36:06.068 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:36:07.498 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:36:08.238 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 187 ms
+2025-01-09 17:36:08.245 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-09 17:36:08.246 [info] [streamChoices] request done: headerRequestId: [84714cc6-17f7-463c-af7a-517df431ab75] model deployment ID: [d054-20241214071018]
+2025-01-09 17:36:22.977 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:36:23.271 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:59:46.596 [info] [fetcher] Using Helix fetcher.
+2025-01-09 17:59:46.596 [info] [code-referencing] Public code references are enabled.
+2025-01-09 18:00:01.297 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:06:47.828 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:06:48.692 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:12:17.357 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Sae.removeExpiredCertificates (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:77:32)
+    at Sae.getAllRootCAs (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:68:38)
+    at pme.createSecureContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-01-09 18:12:17.357 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at Sae.removeExpiredCertificates (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:77:32)
+    at Sae.getAllRootCAs (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificateReaders.ts:68:38)
+    at pme.createSecureContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-01-09 18:12:17.357 [info] [certificates] Removed 2 expired certificates
+2025-01-09 18:12:18.160 [info] [fetcher] Using Helix fetcher.
+2025-01-09 18:12:18.585 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:12:18.639 [info] [fetcher] Using Helix fetcher.
+2025-01-09 18:12:18.639 [info] [code-referencing] Public code references are enabled.
+2025-01-09 18:12:33.604 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:22:13.676 [error] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}

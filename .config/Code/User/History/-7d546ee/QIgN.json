@@ -1,0 +1,7 @@
+{
+    "workbench.startupEditor": "none",
+    "redhat.telemetry.enabled": false,
+    "[java]": {
+        "editor.suggest.snippetsPreventQuickSuggestions": false
+    }
+}

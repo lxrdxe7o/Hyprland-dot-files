@@ -1,0 +1,42 @@
+2025-01-14 12:29:56.697 [info] Using the Electron fetcher.
+2025-01-14 12:29:56.697 [info] Initializing Git extension service.
+2025-01-14 12:29:56.697 [info] Successfully activated the vscode.git extension.
+2025-01-14 12:29:56.697 [info] Enablement state of the vscode.git extension: true.
+2025-01-14 12:29:56.697 [info] Successfully registered Git commit message provider.
+2025-01-14 12:30:01.062 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949): Failed to get copilot token
+2025-01-14 12:30:01.062 [error] GitHub Copilot could not connect to server. Extension activation failed: "Canceled"
+2025-01-14 12:30:01.062 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-01-14 12:30:01.062 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-01-14 12:30:01.062 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-01-14 12:30:01.062 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-01-14 12:30:01.067 [info] activationBlocker from 'languageModelAccess' took for 4317ms

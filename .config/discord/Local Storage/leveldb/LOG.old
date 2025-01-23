@@ -1,0 +1,16 @@
+2025/01/22-08:54:28.384 4fe7 Reusing MANIFEST /home/lxrdxe7o/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/01/22-08:54:28.392 4fe7 Recovering log #14
+2025/01/22-08:54:28.392 4fe7 Reusing old log /home/lxrdxe7o/.config/discord/Local Storage/leveldb/000014.log 
+2025/01/22-11:26:37.542 4fe7 Level-0 table #18: started
+2025/01/22-11:26:37.577 4fe7 Level-0 table #18: 3325890 bytes OK
+2025/01/22-11:26:37.581 4fe7 Delete type=0 #14
+2025/01/22-11:26:37.582 4fe8 Compacting 4@0 + 1@1 files
+2025/01/22-11:26:37.602 4fe8 Generated table #19@0: 5 keys, 2455549 bytes
+2025/01/22-11:26:37.645 4fe8 Generated table #20@0: 31 keys, 872901 bytes
+2025/01/22-11:26:37.645 4fe8 Compacted 4@0 + 1@1 files => 3328450 bytes
+2025/01/22-11:26:37.647 4fe8 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/01/22-11:26:37.647 4fe8 Delete type=2 #7
+2025/01/22-11:26:37.647 4fe8 Delete type=2 #9
+2025/01/22-11:26:37.647 4fe8 Delete type=2 #12
+2025/01/22-11:26:37.647 4fe8 Delete type=2 #15
+2025/01/22-11:26:37.647 4fe8 Delete type=2 #18

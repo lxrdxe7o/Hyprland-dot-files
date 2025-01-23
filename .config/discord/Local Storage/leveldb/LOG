@@ -1,0 +1,6 @@
+2025/01/22-20:32:15.447 1ea1 Reusing MANIFEST /home/lxrdxe7o/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/01/22-20:32:15.455 1ea1 Recovering log #17
+2025/01/22-20:32:15.455 1ea1 Reusing old log /home/lxrdxe7o/.config/discord/Local Storage/leveldb/000017.log 
+2025/01/22-20:35:13.818 1ea2 Level-0 table #23: started
+2025/01/22-20:35:13.844 1ea2 Level-0 table #23: 870712 bytes OK
+2025/01/22-20:35:13.845 1ea2 Delete type=0 #17

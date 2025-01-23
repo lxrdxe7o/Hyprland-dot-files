@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/home/lxrdxe7o/Documents/jdk8u432-b06" version="1.8.0_432">
+        <bootpath>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/lib/resources.jar"/>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/lib/rt.jar"/>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/lib/sunrsasign.jar"/>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/lib/jsse.jar"/>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/lib/jce.jar"/>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/lib/charsets.jar"/>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/lib/jfr.jar"/>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/home/lxrdxe7o/Documents/jdk8u432-b06/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/jre/17.0.13-linux-x86_64" version="17.0.13"/>
+    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64" version="21.0.5"/>
+    <libraryInfo home="/usr/lib/jvm/java-23-openjdk-23.0.1.0.11-1.rolling.fc41.x86_64" version="23.0.1"/>
+</libraryInfos>

@@ -1,0 +1,7 @@
+GitLens v16.1.1 activating in Visual Studio Code (1.96.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (5558b0428a217943288610fa9fa33a049f8d7681ab3275b2bff86c7aa9f8b881|738feb22-3da0-44eb-9455-9ae9e974de1f1736424728715)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-01-09 12:12:17.496] [GIT   *2024ms] [/home/lxrdxe7o/Git-repos/215_Project] git shortlog -s --all --no-merges --since=1.year.ago [*2024ms] (slow)
+[2025-01-09 12:12:17.496] [GIT   *2088ms] [/home/lxrdxe7o/Git-repos/215_Project] git rev-list --max-parents=0 HEAD -- [*2088ms] (slow)
+[2025-01-09 12:12:17.496] [GIT   *2090ms] [/home/lxrdxe7o/Git-repos/215_Project] git remote -v [*2090ms] (slow)
+[2025-01-09 12:12:24.195] [GIT    *690ms] [/home/lxrdxe7o/Git-repos/215_Project] git config --get-regex ^user\. [*690ms] (slow)
+[2025-01-09 12:12:24.653] [GIT    *507ms] [/home/lxrdxe7o/Git-repos/215_Project] git blame --root --incremental -- src/App.java [*507ms] (slow)

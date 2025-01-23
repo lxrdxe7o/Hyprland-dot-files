@@ -1,0 +1,2 @@
+Java Extension is activated.
+JavaAPI: {"apiVersion":"0.13","javaRequirement":{"tooling_jre":"/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/jre/17.0.13-linux-x86_64","tooling_jre_version":17,"java_home":"/usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64","java_version":21},"status":"Starting","serverMode":"Hybrid"}

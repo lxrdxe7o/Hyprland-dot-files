@@ -1,0 +1,4 @@
+GitLens v16.1.1 activating in Visual Studio Code (1.96.2) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (5558b0428a217943288610fa9fa33a049f8d7681ab3275b2bff86c7aa9f8b881|d0946b3f-da50-45d6-a292-d7fecc084b551736421247346)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-01-09 11:19:59.111] getLocalWorkspaceData
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/lxrdxe7o/.gitkraken/workspaces/workspaces.json'

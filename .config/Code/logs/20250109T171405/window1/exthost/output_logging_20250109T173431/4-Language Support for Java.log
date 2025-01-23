@@ -1,0 +1,24 @@
+Jan 09, 2025 5:35:30 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider ch.qos.logback.classic.servlet.LogbackServletContainerInitializer of service jakarta.servlet.ServletContainerInitializer in bundle ch.qos.logback.classic
+Jan 09, 2025 5:35:30 PM org.apache.aries.spifly.BaseActivator log
+INFO: Registered provider ch.qos.logback.classic.spi.LogbackServiceProvider of service org.slf4j.spi.SLF4JServiceProvider in bundle ch.qos.logback.classic
+Jan 09, 2025 5:35:41 PM com.microsoft.java.debug.plugin.internal.JavaDebuggerServerPlugin start
+INFO: Starting com.microsoft.java.debug.plugin
+Jan 09, 2025 5:35:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Jan 09, 2025 5:36:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 125
+Jan 09, 2025 5:36:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 130
+Jan 09, 2025 5:36:58 PM com.microsoft.java.debug.core.UsageDataSession recordInfo
+INFO: launch debug info
+Jan 09, 2025 5:37:01 PM com.microsoft.java.debug.core.UsageDataSession recordResponse
+WARNING: abnormal response
+Jan 09, 2025 5:37:01 PM com.microsoft.java.debug.core.UsageDataSession submitUsageData
+INFO: session usage data summary
+Jan 09, 2025 5:51:02 PM com.microsoft.java.debug.core.UsageDataSession recordInfo
+INFO: launch debug info
+Jan 09, 2025 5:51:04 PM com.microsoft.java.debug.core.UsageDataSession recordResponse
+WARNING: abnormal response
+Jan 09, 2025 5:51:04 PM com.microsoft.java.debug.core.UsageDataSession submitUsageData
+INFO: session usage data summary

@@ -1,0 +1,548 @@
+2025-01-14 12:29:48.678 [info] Extension host with pid 41587 started
+2025-01-14 12:29:48.678 [info] Skipping acquiring lock for /home/lxrdxe7o/.config/Code/User/workspaceStorage/08044e2193eb0137a080b4eea19fabe2.
+2025-01-14 12:29:49.013 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-14 12:29:49.087 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-14 12:29:49.120 [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+2025-01-14 12:29:49.438 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:java'
+2025-01-14 12:29:49.533 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+2025-01-14 12:29:49.630 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'onLanguage:java'
+2025-01-14 12:29:49.806 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack, startup: false, activationEvent: 'onLanguage:java'
+2025-01-14 12:29:50.302 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-14 12:29:50.516 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2025-01-14 12:29:50.591 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-14 12:29:50.842 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'onLanguage:java'
+2025-01-14 12:29:51.056 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-14 12:29:51.180 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-14 12:29:51.408 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2025-01-14 12:29:51.428 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-14 12:29:51.448 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-14 12:29:51.553 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-14 12:29:51.686 [info] Eager extensions activated
+2025-01-14 12:29:51.905 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-14 12:29:51.910 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-14 12:29:51.951 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-14 12:29:52.296 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-01-14 12:29:53.259 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-01-14 12:29:54.493 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-01-14 12:30:00.141 [error] Error: ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-01-14 12:30:00.773 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-14 12:30:00.907 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.908 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.909 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.909 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.910 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.910 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.911 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.911 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.912 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.917 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.918 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.918 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.919 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.919 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.920 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.920 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.921 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.921 [error] Canceled: Canceled
+    at Fc (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112153
+    at Array.forEach (<anonymous>)
+    at Dy.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112093)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10082)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.947 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at kh.L [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:975601)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /usr/share/code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.952 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:328633)
+    at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:329592
+    at kh.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1088462)
+    at P.B (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:997158)
+    at /usr/share/code/resources/app/extensions/git/dist/main.js:2:1003280
+    at Array.forEach (<anonymous>)
+    at b.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1003266)
+    at ev.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20047)
+    at ev.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ev.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:978080)
+    at ev.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:20143)
+    at ai (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.971 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at f (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:14138)
+    at c (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:18699)
+    at ActionRunners._updateContextKeys (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:69975)
+    at s (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68419)
+    at RegisteredActionRunner.unregister (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68562)
+    at RegisteredActionRunner.dispose (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:67229)
+    at ActionRunners.dispose (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68002)
+    at /home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14976
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14958)
+    at ai (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.972 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at f (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:14138)
+    at c (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:18699)
+    at ActionRunners._updateContextKeys (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:69975)
+    at s (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68419)
+    at RegisteredActionRunner.unregister (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68562)
+    at RegisteredActionRunner.dispose (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:67229)
+    at ActionRunners.dispose (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68002)
+    at /home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14976
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14958)
+    at ai (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.974 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at f (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:14138)
+    at c (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1485:18699)
+    at ActionRunners._updateContextKeys (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:69975)
+    at s (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68419)
+    at RegisteredActionRunner.unregister (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68562)
+    at RegisteredActionRunner.dispose (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:67229)
+    at ActionRunners.dispose (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1104:68002)
+    at /home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14976
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/lxrdxe7o/.vscode/extensions/eamodio.gitlens-16.1.1/dist/gitlens.js:1429:14958)
+    at ai (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:699)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:14992
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1009
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11919)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-01-14 12:30:00.996 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+    at c.shutdown (/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:1123344)
+    at c.stop (/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:1122925)
+    at c.stop (/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:1288864)
+    at c.stop (/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:842556)
+    at t.StandardLanguageClient.stop (/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:1019955)
+    at Object.t.deactivate (/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:894012)
+    at zz.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11724)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+    at Array.map (<anonymous>)
+    at zz.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+    at zz.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+    at QC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+    at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-01-14 12:30:01.064 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at h0._inspectContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:7611)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2025-01-14 12:30:01.064 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at h0._inspectContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:7611)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2025-01-14 12:30:01.065 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at h0._inspectContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:7611)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2025-01-14 12:30:01.066 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at h0._inspectContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:7611)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2025-01-14 12:30:01.066 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at h0._inspectContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:7611)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2025-01-14 12:30:01.067 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at h0._inspectContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:7611)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2025-01-14 12:30:01.067 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at h0._inspectContext (/home/lxrdxe7o/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:446:7611)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) setContext undefined
+2025-01-14 12:30:01.077 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at V0.resolveProxy (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:54029)
+    at Object.resolveProxy (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:17332)
+    at useProxySettings (/usr/share/code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:182:16)
+    at /usr/share/code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:119:13
+    at /usr/share/code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:681:13
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2025-01-14 12:30:01.109 [error] Error: ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-01-14 12:30:01.162 [error] Canceled: Canceled
+    at new IT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+    at Dy.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32313)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31147)
+    at cw.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at b.setState (/usr/share/code/resources/app/extensions/git/dist/main.js:2:983308)
+    at /usr/share/code/resources/app/extensions/git/dist/main.js:2:986138
+    at <anonymous> setContext undefined
+2025-01-14 12:30:01.301 [error] [redhat.java] provider FAILED
+2025-01-14 12:30:01.302 [error] Error: The request (id: 1, method: 'textDocument/documentSymbol') has been cancelled
+    at /home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:1066202
+    at re (/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:1066496)
+    at /home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:1061280
+    at Immediate.<anonymous> (/home/lxrdxe7o/.vscode/extensions/redhat.java-1.38.0-linux-x64/dist/extension.js:2:1061300)
+    at processImmediate (node:internal/timers:483:21)
+2025-01-14 12:30:01.304 [info] Extension host with pid 41587 exiting with code 0

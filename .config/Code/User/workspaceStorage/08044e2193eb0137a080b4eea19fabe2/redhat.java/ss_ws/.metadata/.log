@@ -1,0 +1,362 @@
+!SESSION 2025-01-09 17:35:28.763 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --pipe=/run/user/1000/lsp-58b3f6a3aa77c4a45bd0d2f44ac6b92f.sock
+Command-line arguments:  -data /home/lxrdxe7o/.config/Code/User/workspaceStorage/08044e2193eb0137a080b4eea19fabe2/redhat.java/ss_ws --pipe=/run/user/1000/lsp-58b3f6a3aa77c4a45bd0d2f44ac6b92f.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:31.993
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.291
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.404
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.407
+!MESSAGE Initializing Java Language Server 1.43.0.202412190401
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.622
+!MESSAGE Setting /usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64 as 'JavaSE-21' environment (id:1736422532592)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.626
+!MESSAGE Setting java.home /usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64 as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.639
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.664
+!MESSAGE Workspace initialized in 9ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.688
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.701
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.703
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.706
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.708
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.715
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.720
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.740
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.740
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.742
+!MESSAGE Creating the Java project 215_Project_72241e7c
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.867
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:32.870
+!MESSAGE Finished creating the Java project 215_Project_72241e7c
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2025-01-09 17:35:34.176
+!MESSAGE Failed to create linked resource from file:///home/lxrdxe7o/Git-repos/215_Project/src/App.java to jdt.ls-java-project
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/jdt.ls-java-project/src/App.java)[367]: java.lang.Exception: Resource '/jdt.ls-java-project/src/App.java' already exists.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Workspace.createResource(Workspace.java:1459)
+	at org.eclipse.core.internal.resources.Workspace.createResource(Workspace.java:1394)
+	at org.eclipse.core.internal.resources.Resource.createLink(Resource.java:678)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:314)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveTypeRoot(JDTUtils.java:489)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveTypeRoot(JDTUtils.java:448)
+	at org.eclipse.jdt.ls.core.internal.handlers.DocumentSymbolHandler.documentSymbol(DocumentSymbolHandler.java:108)
+	at org.eclipse.jdt.ls.core.internal.syntaxserver.SyntaxLanguageServer.lambda$5(SyntaxLanguageServer.java:339)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:87)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+!SUBENTRY 1 org.eclipse.core.resources 4 367 2025-01-09 17:35:34.185
+!MESSAGE Resource '/jdt.ls-java-project/src/App.java' already exists.
+!STACK 0
+java.lang.Exception: Resource '/jdt.ls-java-project/src/App.java' already exists.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Workspace.createResource(Workspace.java:1459)
+	at org.eclipse.core.internal.resources.Workspace.createResource(Workspace.java:1394)
+	at org.eclipse.core.internal.resources.Resource.createLink(Resource.java:678)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.getFakeCompilationUnit(JDTUtils.java:314)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(JDTUtils.java:201)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveTypeRoot(JDTUtils.java:489)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.resolveTypeRoot(JDTUtils.java:448)
+	at org.eclipse.jdt.ls.core.internal.handlers.DocumentSymbolHandler.documentSymbol(DocumentSymbolHandler.java:108)
+	at org.eclipse.jdt.ls.core.internal.syntaxserver.SyntaxLanguageServer.lambda$5(SyntaxLanguageServer.java:339)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:87)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:34.228
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:34.230
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:34.921
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.218
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.227
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.231
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.238
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.268
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.272
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.275
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.294
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.294
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.309
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.312
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.314
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2025-01-09 17:35:36.319
+!MESSAGE [Working copy] App.java [in <default> [in src [in jdt.ls-java-project]]] does not exist
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): [Working copy] App.java [in <default> [in src [in jdt.ls-java-project]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:546)
+	at org.eclipse.jdt.internal.core.Openable.getUnderlyingResource(Openable.java:338)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getUnderlyingResource(CompilationUnit.java:1108)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.collectNonJavaProblems(BaseDiagnosticsHandler.java:198)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.endReporting(BaseDiagnosticsHandler.java:149)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.reportProblems(ReconcileWorkingCopyOperation.java:157)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:126)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:751)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:816)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1444)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:336)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:299)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$PublishDiagnosticJob.run(BaseDocumentLifeCycleHandler.java:781)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2025-01-09 17:35:36.320
+!MESSAGE [Working copy] App.java [in <default> [in src [in jdt.ls-java-project]]] does not exist
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:36.337
+!MESSAGE Validated 1. Took 763 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:40.494
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:41.048
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:41.368
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:41.392
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:41.488
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 17:35:41.511
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2025-01-09 18:12:18.561 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --pipe=/run/user/1000/lsp-35b784eda727be5c4d5ab4d84e017511.sock
+Command-line arguments:  -data /home/lxrdxe7o/.config/Code/User/workspaceStorage/08044e2193eb0137a080b4eea19fabe2/redhat.java/ss_ws --pipe=/run/user/1000/lsp-35b784eda727be5c4d5ab4d84e017511.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:21.530
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:21.911
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:21.992
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:21.996
+!MESSAGE Initializing Java Language Server 1.43.0.202412190401
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:22.076
+!MESSAGE Workspace initialized in 12ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:22.108
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:22.119
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:22.122
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:22.125
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:22.128
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:22.902
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:25.939
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:25.961
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:26.075
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:26.399
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:29.569
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:29.582
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:29.603
+!MESSAGE Validated 1. Took 2596 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:31.491
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:31.516
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:31.583
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-09 18:12:31.603
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2025-01-14 12:29:51.214 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.13
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  --pipe=/run/user/1000/lsp-eaa4fed6c8f8d8b6141b6079e96bd47a.sock
+Command-line arguments:  -data /home/lxrdxe7o/.config/Code/User/workspaceStorage/08044e2193eb0137a080b4eea19fabe2/redhat.java/ss_ws --pipe=/run/user/1000/lsp-eaa4fed6c8f8d8b6141b6079e96bd47a.sock
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:54.044
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:54.446
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:54.853
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:54.857
+!MESSAGE Initializing Java Language Server 1.43.0.202412190401
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:54.941
+!MESSAGE Workspace initialized in 15ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:56.497
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:56.514
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:56.519
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:56.528
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:56.551
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:56.566
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:56.569
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:56.574
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:56.583
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:58.559
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:58.589
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:58.591
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:29:59.012
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:30:00.671
+!MESSAGE >> textDocument/semanticTokens/full
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:30:01.131
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:30:01.466
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:30:01.475
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:30:01.501
+!MESSAGE Validated 1. Took 1887 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:30:34.131
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:30:34.137
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:30:34.139
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-01-14 12:30:34.149
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

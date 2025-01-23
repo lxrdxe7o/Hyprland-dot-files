@@ -1,0 +1,32 @@
+## Confirm closing window
+confirm-close-surface = false
+
+## Clipboard
+clipboard-read = "allow"
+clipboard-paste-protection = false
+
+## Background
+background-opacity = 0.9
+
+## Theme
+theme = Twilight
+font-family = MesloLGS Nerd Font
+font-size = 12
+
+## Cursor
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = true
+
+## Window padding & decoration
+window-padding-x = 4
+window-padding-y = 4
+window-padding-balance = true
+window-padding-color = background
+window-decoration = true
+
+## Working Directory
+window-inherit-working-directory = true
+window-inherit-font-size = true
+working-directory = home
+

@@ -1,0 +1,288 @@
+2025-01-09 17:14:07.221 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:14:07.252 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:14:07.253 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:14:07.686 [info] Started local extension host with pid 4234.
+2025-01-09 17:14:07.740 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lxrdxe7o/.vscode/extensions
+2025-01-09 17:14:07.990 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/lxrdxe7o/.vscode/extensions
+2025-01-09 17:14:08.656 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-09 17:14:11.232 [info] [perf] Render performance baseline is 36ms
+2025-01-09 17:15:43.239 [info] Settings Sync: Updated current session 5eea7cd5df385839
+2025-01-09 17:15:43.346 [info] Settings Sync: Token updated for the account lxrdxe7o
+2025-01-09 17:15:43.348 [info] Settings Sync: Account status changed from unavailable to available
+2025-01-09 17:21:47.866 [error] [network] #28: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-01-09 17:22:44.879 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:28:13.594 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:28:13.595 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:28:13.595 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:28:13.989 [info] Started local extension host with pid 7180.
+2025-01-09 17:28:14.356 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:28:15.965 [info] Settings Sync: Token updated for the account lxrdxe7o
+2025-01-09 17:28:16.381 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-09 17:28:18.357 [info] [perf] Render performance baseline is 38ms
+2025-01-09 17:29:33.042 [error] ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-01-09 17:29:56.488 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:29:56.788 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-01-09 17:29:56.789 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-01-09 17:29:56.831 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-01-09 17:29:56.833 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-01-09 17:30:11.424 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:31:02.899 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim'
+    at _ot.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-09 17:31:58.463 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-09 17:31:59.133 [error] Method not found: toJSON: CodeExpectedError: Method not found: toJSON
+    at Object.call (file:///usr/share/code/resources/app/out/main.js:36:4634)
+    at uf.s (file:///usr/share/code/resources/app/out/main.js:34:19716)
+    at uf.q (file:///usr/share/code/resources/app/out/main.js:34:19239)
+    at zo.value (file:///usr/share/code/resources/app/out/main.js:34:18641)
+    at A.B (file:///usr/share/code/resources/app/out/main.js:33:746)
+    at A.C (file:///usr/share/code/resources/app/out/main.js:33:816)
+    at A.fire (file:///usr/share/code/resources/app/out/main.js:33:1033)
+    at zo.value (file:///usr/share/code/resources/app/out/main.js:28:4913)
+    at A.B (file:///usr/share/code/resources/app/out/main.js:33:746)
+    at A.fire (file:///usr/share/code/resources/app/out/main.js:33:964)
+    at zo.value (file:///usr/share/code/resources/app/out/main.js:28:5101)
+    at A.B (file:///usr/share/code/resources/app/out/main.js:33:746)
+    at A.fire (file:///usr/share/code/resources/app/out/main.js:33:964)
+    at U (file:///usr/share/code/resources/app/out/main.js:28:7388)
+    at IpcMainImpl.i (file:///usr/share/code/resources/app/out/main.js:36:21224)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:518:28)
+2025-01-09 17:32:27.605 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim'
+    at _ot.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-09 17:32:40.941 [info] Settings Sync: Token updated for the account lxrdxe7o
+2025-01-09 17:32:40.941 [info] Settings Sync: Token updated for the account lxrdxe7o
+2025-01-09 17:32:56.264 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at listOnTimeout (node:internal/timers:545:9)
+    at processTimers (node:internal/timers:519:7)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:34:23.549 [error] [Extension Host] (node:7180) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-01-09 17:34:30.185 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:34:30.185 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:34:30.186 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:34:30.626 [info] Started local extension host with pid 9060.
+2025-01-09 17:34:31.171 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:34:32.483 [info] Settings Sync: Token updated for the account lxrdxe7o
+2025-01-09 17:34:32.582 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-09 17:34:33.302 [info] Settings Sync: Token updated for the account lxrdxe7o
+2025-01-09 17:34:33.341 [info] [perf] Render performance baseline is 37ms
+2025-01-09 17:34:33.710 [error] ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-01-09 17:34:40.629 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 17:34:46.311 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:34:46.755 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-01-09 17:34:46.756 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-01-09 17:34:46.791 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-01-09 17:34:46.792 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-01-09 17:34:57.427 [error] [network] #23: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-01-09 17:35:01.405 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:35:29.603 [error] ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/workspaceStorage/08044e2193eb0137a080b4eea19fabe2/redhat.java/jdt_ws/.metadata/.log': Error: ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/workspaceStorage/08044e2193eb0137a080b4eea19fabe2/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:641:25)
+    at Object.readFile (node:internal/fs/promises:1258:14)
+2025-01-09 17:35:33.709 [error] ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/workspaceStorage/08044e2193eb0137a080b4eea19fabe2/redhat.java/jdt_ws/.metadata/.log': Error: ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/workspaceStorage/08044e2193eb0137a080b4eea19fabe2/redhat.java/jdt_ws/.metadata/.log'
+    at open (node:internal/fs/promises:641:25)
+    at Object.readFile (node:internal/fs/promises:1258:14)
+2025-01-09 17:36:06.071 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:36:07.500 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:36:22.979 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:36:23.273 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 17:37:03.946 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'
+2025-01-09 17:51:07.296 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'
+2025-01-09 18:00:01.299 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:06:47.829 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:06:48.693 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:12:08.677 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 18:12:08.677 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 18:12:08.678 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 18:12:09.006 [info] Started local extension host with pid 26069.
+2025-01-09 18:12:09.366 [error] Extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-09 18:12:13.368 [info] [perf] Render performance baseline is 54ms
+2025-01-09 18:12:13.880 [info] Settings Sync: Token updated for the account lxrdxe7o
+2025-01-09 18:12:13.882 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-09 18:12:17.505 [error] ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/lxrdxe7o/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-01-09 18:12:17.621 [info] Settings Sync: Token updated for the account lxrdxe7o
+2025-01-09 18:12:18.587 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:12:33.605 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:12:58.725 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/packages/Car.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/packages/Car.java.git'
+2025-01-09 18:12:58.726 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'
+2025-01-09 18:18:58.591 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-09 18:18:59.170 [error] Method not found: toJSON: CodeExpectedError: Method not found: toJSON
+    at Object.call (file:///usr/share/code/resources/app/out/main.js:36:4634)
+    at uf.s (file:///usr/share/code/resources/app/out/main.js:34:19716)
+    at uf.q (file:///usr/share/code/resources/app/out/main.js:34:19239)
+    at zo.value (file:///usr/share/code/resources/app/out/main.js:34:18641)
+    at A.B (file:///usr/share/code/resources/app/out/main.js:33:746)
+    at A.C (file:///usr/share/code/resources/app/out/main.js:33:816)
+    at A.fire (file:///usr/share/code/resources/app/out/main.js:33:1033)
+    at zo.value (file:///usr/share/code/resources/app/out/main.js:28:4913)
+    at A.B (file:///usr/share/code/resources/app/out/main.js:33:746)
+    at A.fire (file:///usr/share/code/resources/app/out/main.js:33:964)
+    at zo.value (file:///usr/share/code/resources/app/out/main.js:28:5101)
+    at A.B (file:///usr/share/code/resources/app/out/main.js:33:746)
+    at A.fire (file:///usr/share/code/resources/app/out/main.js:33:964)
+    at U (file:///usr/share/code/resources/app/out/main.js:28:7388)
+    at IpcMainImpl.i (file:///usr/share/code/resources/app/out/main.js:36:21224)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:518:28)
+2025-01-09 18:21:14.581 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-09 18:22:13.678 [error] [Extension Host] [default] Error sending telemetry FetchError: 
+    at fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at dme.fetch (/home/lxrdxe7o/.vscode/extensions/github.copilot-1.256.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ETIMEDOUT',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-09 18:25:11.579 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'
+2025-01-09 18:30:35.958 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'
+2025-01-09 18:30:52.913 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'
+2025-01-09 18:30:55.165 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'
+2025-01-09 18:31:03.264 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'
+2025-01-10 02:01:25.342 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'
+2025-01-10 02:01:27.396 [error] ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git': Error: ENOENT: no such file or directory, lstat '/home/lxrdxe7o/Git-repos/215_Project/src/App.java.git'

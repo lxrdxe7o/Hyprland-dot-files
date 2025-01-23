@@ -1,0 +1,13 @@
+[General]
+Default Identity=2069149049
+
+[Identity #0]
+Default Domain=fedora
+Disable Fcc=false
+Identity=xero
+Image Location=
+Inline Signature=
+Name=xero
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=2069149049

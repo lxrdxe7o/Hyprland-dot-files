@@ -1,0 +1,10 @@
+[General]
+ColorSchemeHash[$d]
+TimeFormat=1
+Volume=1
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Phonon::AudioOutput]
+Dragon Player_Volume=1

@@ -1,0 +1,8 @@
+[Libinput][1267][12801][ASUE1304:00 04F3:3201 Touchpad]
+NaturalScroll=true
+
+[Libinput][13947][6425][USB Receiver USB Receiver]
+PointerAcceleration=-0.400
+
+[Mouse]
+cursorTheme=Bibata-Modern-Ice

@@ -1,0 +1,359 @@
+2025-01-09 17:14:09.480 [info] [main] Log level: Info
+2025-01-09 17:14:09.480 [info] [main] Validating found git in: "git"
+2025-01-09 17:14:09.480 [info] [main] Using git "2.47.1" from "git"
+2025-01-09 17:14:09.480 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-09 17:14:09.480 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-09 17:28:15.947 [info] [main] Log level: Info
+2025-01-09 17:28:15.947 [info] [main] Validating found git in: "git"
+2025-01-09 17:28:15.947 [info] [main] Using git "2.47.1" from "git"
+2025-01-09 17:28:15.947 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-09 17:28:15.947 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-09 17:34:24.954 [info] > git clone https://github.com/lxrdxe7o/215_Project.git /home/lxrdxe7o/Git-repos/215_Project --progress [1521ms]
+2025-01-09 17:34:24.955 [info] Cloning into '/home/lxrdxe7o/Git-repos/215_Project'...
+remote: Enumerating objects: 111, done.        
+remote: Counting objects:   0% (1/111)        remote: Counting objects:   1% (2/111)        remote: Counting objects:   2% (3/111)        remote: Counting objects:   3% (4/111)        remote: Counting objects:   4% (5/111)        remote: Counting objects:   5% (6/111)        remote: Counting objects:   6% (7/111)        remote: Counting objects:   7% (8/111)        remote: Counting objects:   8% (9/111)        remote: Counting objects:   9% (10/111)        remote: Counting objects:  10% (12/111)        remote: Counting objects:  11% (13/111)        remote: Counting objects:  12% (14/111)        remote: Counting objects:  13% (15/111)        remote: Counting objects:  14% (16/111)        remote: Counting objects:  15% (17/111)        remote: Counting objects:  16% (18/111)        remote: Counting objects:  17% (19/111)        remote: Counting objects:  18% (20/111)        remote: Counting objects:  19% (22/111)        remote: Counting objects:  20% (23/111)        remote: Counting objects:  21% (24/111)        remote: Counting objects:  22% (25/111)        remote: Counting objects:  23% (26/111)        remote: Counting objects:  24% (27/111)        remote: Counting objects:  25% (28/111)        remote: Counting objects:  26% (29/111)        remote: Counting objects:  27% (30/111)        remote: Counting objects:  28% (32/111)        remote: Counting objects:  29% (33/111)        remote: Counting objects:  30% (34/111)        remote: Counting objects:  31% (35/111)        remote: Counting objects:  32% (36/111)        remote: Counting objects:  33% (37/111)        remote: Counting objects:  34% (38/111)        remote: Counting objects:  35% (39/111)        remote: Counting objects:  36% (40/111)        remote: Counting objects:  37% (42/111)        remote: Counting objects:  38% (43/111)        remote: Counting objects:  39% (44/111)        remote: Counting objects:  40% (45/111)        remote: Counting objects:  41% (46/111)        remote: Counting objects:  42% (47/111)        remote: Counting objects:  43% (48/111)        remote: Counting objects:  44% (49/111)        remote: Counting objects:  45% (50/111)        remote: Counting objects:  46% (52/111)        remote: Counting objects:  47% (53/111)        remote: Counting objects:  48% (54/111)        remote: Counting objects:  49% (55/111)        remote: Counting objects:  50% (56/111)        remote: Counting objects:  51% (57/111)        remote: Counting objects:  52% (58/111)        remote: Counting objects:  53% (59/111)        remote: Counting objects:  54% (60/111)        remote: Counting objects:  55% (62/111)        remote: Counting objects:  56% (63/111)        remote: Counting objects:  57% (64/111)        remote: Counting objects:  58% (65/111)        remote: Counting objects:  59% (66/111)        remote: Counting objects:  60% (67/111)        remote: Counting objects:  61% (68/111)        remote: Counting objects:  62% (69/111)        remote: Counting objects:  63% (70/111)        remote: Counting objects:  64% (72/111)        remote: Counting objects:  65% (73/111)        remote: Counting objects:  66% (74/111)        remote: Counting objects:  67% (75/111)        remote: Counting objects:  68% (76/111)        remote: Counting objects:  69% (77/111)        remote: Counting objects:  70% (78/111)        remote: Counting objects:  71% (79/111)        remote: Counting objects:  72% (80/111)        remote: Counting objects:  73% (82/111)        remote: Counting objects:  74% (83/111)        remote: Counting objects:  75% (84/111)        remote: Counting objects:  76% (85/111)        remote: Counting objects:  77% (86/111)        remote: Counting objects:  78% (87/111)        remote: Counting objects:  79% (88/111)        remote: Counting objects:  80% (89/111)        remote: Counting objects:  81% (90/111)        remote: Counting objects:  82% (92/111)        remote: Counting objects:  83% (93/111)        remote: Counting objects:  84% (94/111)        remote: Counting objects:  85% (95/111)        remote: Counting objects:  86% (96/111)        remote: Counting objects:  87% (97/111)        remote: Counting objects:  88% (98/111)        remote: Counting objects:  89% (99/111)        remote: Counting objects:  90% (100/111)        remote: Counting objects:  91% (102/111)        remote: Counting objects:  92% (103/111)        remote: Counting objects:  93% (104/111)        remote: Counting objects:  94% (105/111)        remote: Counting objects:  95% (106/111)        remote: Counting objects:  96% (107/111)        remote: Counting objects:  97% (108/111)        remote: Counting objects:  98% (109/111)        remote: Counting objects:  99% (110/111)        remote: Counting objects: 100% (111/111)        remote: Counting objects: 100% (111/111), done.        
+remote: Compressing objects:   1% (1/66)        remote: Compressing objects:   3% (2/66)        remote: Compressing objects:   4% (3/66)        remote: Compressing objects:   6% (4/66)        remote: Compressing objects:   7% (5/66)        remote: Compressing objects:   9% (6/66)        remote: Compressing objects:  10% (7/66)        remote: Compressing objects:  12% (8/66)        remote: Compressing objects:  13% (9/66)        remote: Compressing objects:  15% (10/66)        remote: Compressing objects:  16% (11/66)        remote: Compressing objects:  18% (12/66)        remote: Compressing objects:  19% (13/66)        remote: Compressing objects:  21% (14/66)        remote: Compressing objects:  22% (15/66)        remote: Compressing objects:  24% (16/66)        remote: Compressing objects:  25% (17/66)        remote: Compressing objects:  27% (18/66)        remote: Compressing objects:  28% (19/66)        remote: Compressing objects:  30% (20/66)        remote: Compressing objects:  31% (21/66)        remote: Compressing objects:  33% (22/66)        remote: Compressing objects:  34% (23/66)        remote: Compressing objects:  36% (24/66)        remote: Compressing objects:  37% (25/66)        remote: Compressing objects:  39% (26/66)        remote: Compressing objects:  40% (27/66)        remote: Compressing objects:  42% (28/66)        remote: Compressing objects:  43% (29/66)        remote: Compressing objects:  45% (30/66)        remote: Compressing objects:  46% (31/66)        remote: Compressing objects:  48% (32/66)        remote: Compressing objects:  50% (33/66)        remote: Compressing objects:  51% (34/66)        remote: Compressing objects:  53% (35/66)        remote: Compressing objects:  54% (36/66)        remote: Compressing objects:  56% (37/66)        remote: Compressing objects:  57% (38/66)        remote: Compressing objects:  59% (39/66)        remote: Compressing objects:  60% (40/66)        remote: Compressing objects:  62% (41/66)        remote: Compressing objects:  63% (42/66)        remote: Compressing objects:  65% (43/66)        remote: Compressing objects:  66% (44/66)        remote: Compressing objects:  68% (45/66)        remote: Compressing objects:  69% (46/66)        remote: Compressing objects:  71% (47/66)        remote: Compressing objects:  72% (48/66)        remote: Compressing objects:  74% (49/66)        remote: Compressing objects:  75% (50/66)        remote: Compressing objects:  77% (51/66)        remote: Compressing objects:  78% (52/66)        remote: Compressing objects:  80% (53/66)        remote: Compressing objects:  81% (54/66)        remote: Compressing objects:  83% (55/66)        remote: Compressing objects:  84% (56/66)        remote: Compressing objects:  86% (57/66)        remote: Compressing objects:  87% (58/66)        remote: Compressing objects:  89% (59/66)        remote: Compressing objects:  90% (60/66)        remote: Compressing objects:  92% (61/66)        remote: Compressing objects:  93% (62/66)        remote: Compressing objects:  95% (63/66)        remote: Compressing objects:  96% (64/66)        remote: Compressing objects:  98% (65/66)        remote: Compressing objects: 100% (66/66)        remote: Compressing objects: 100% (66/66), done.        
+Receiving objects:   0% (1/111)Receiving objects:   1% (2/111)Receiving objects:   2% (3/111)Receiving objects:   3% (4/111)Receiving objects:   4% (5/111)Receiving objects:   5% (6/111)Receiving objects:   6% (7/111)Receiving objects:   7% (8/111)Receiving objects:   8% (9/111)Receiving objects:   9% (10/111)Receiving objects:  10% (12/111)Receiving objects:  11% (13/111)Receiving objects:  12% (14/111)Receiving objects:  13% (15/111)Receiving objects:  14% (16/111)Receiving objects:  15% (17/111)Receiving objects:  16% (18/111)Receiving objects:  17% (19/111)Receiving objects:  18% (20/111)Receiving objects:  19% (22/111)Receiving objects:  20% (23/111)Receiving objects:  21% (24/111)Receiving objects:  22% (25/111)Receiving objects:  23% (26/111)Receiving objects:  24% (27/111)Receiving objects:  25% (28/111)Receiving objects:  26% (29/111)Receiving objects:  27% (30/111)Receiving objects:  28% (32/111)Receiving objects:  29% (33/111)Receiving objects:  30% (34/111)Receiving objects:  31% (35/111)Receiving objects:  32% (36/111)Receiving objects:  33% (37/111)Receiving objects:  34% (38/111)Receiving objects:  35% (39/111)Receiving objects:  36% (40/111)Receiving objects:  37% (42/111)Receiving objects:  38% (43/111)Receiving objects:  39% (44/111)Receiving objects:  40% (45/111)Receiving objects:  41% (46/111)Receiving objects:  42% (47/111)Receiving objects:  43% (48/111)Receiving objects:  44% (49/111)Receiving objects:  45% (50/111)Receiving objects:  46% (52/111)Receiving objects:  47% (53/111)Receiving objects:  48% (54/111)Receiving objects:  49% (55/111)Receiving objects:  50% (56/111)Receiving objects:  51% (57/111)Receiving objects:  52% (58/111)Receiving objects:  53% (59/111)Receiving objects:  54% (60/111)Receiving objects:  55% (62/111)Receiving objects:  56% (63/111)remote: Total 111 (delta 54), reused 102 (delta 45), pack-reused 0 (from 0)        
+Receiving objects:  57% (64/111)Receiving objects:  58% (65/111)Receiving objects:  59% (66/111)Receiving objects:  60% (67/111)Receiving objects:  61% (68/111)Receiving objects:  62% (69/111)Receiving objects:  63% (70/111)Receiving objects:  64% (72/111)Receiving objects:  65% (73/111)Receiving objects:  66% (74/111)Receiving objects:  67% (75/111)Receiving objects:  68% (76/111)Receiving objects:  69% (77/111)Receiving objects:  70% (78/111)Receiving objects:  71% (79/111)Receiving objects:  72% (80/111)Receiving objects:  73% (82/111)Receiving objects:  74% (83/111)Receiving objects:  75% (84/111)Receiving objects:  76% (85/111)Receiving objects:  77% (86/111)Receiving objects:  78% (87/111)Receiving objects:  79% (88/111)Receiving objects:  80% (89/111)Receiving objects:  81% (90/111)Receiving objects:  82% (92/111)Receiving objects:  83% (93/111)Receiving objects:  84% (94/111)Receiving objects:  85% (95/111)Receiving objects:  86% (96/111)Receiving objects:  87% (97/111)Receiving objects:  88% (98/111)Receiving objects:  89% (99/111)Receiving objects:  90% (100/111)Receiving objects:  91% (102/111)Receiving objects:  92% (103/111)Receiving objects:  93% (104/111)Receiving objects:  94% (105/111)Receiving objects:  95% (106/111)Receiving objects:  96% (107/111)Receiving objects:  97% (108/111)Receiving objects:  98% (109/111)Receiving objects:  99% (110/111)Receiving objects: 100% (111/111)Receiving objects: 100% (111/111), 45.73 KiB | 720.00 KiB/s, done.
+Resolving deltas:   0% (0/54)Resolving deltas:   1% (1/54)Resolving deltas:   5% (3/54)Resolving deltas:   7% (4/54)Resolving deltas:   9% (5/54)Resolving deltas:  11% (6/54)Resolving deltas:  12% (7/54)Resolving deltas:  14% (8/54)Resolving deltas:  16% (9/54)Resolving deltas:  18% (10/54)Resolving deltas:  20% (11/54)Resolving deltas:  25% (14/54)Resolving deltas:  29% (16/54)Resolving deltas:  31% (17/54)Resolving deltas:  33% (18/54)Resolving deltas:  37% (20/54)Resolving deltas:  44% (24/54)Resolving deltas:  46% (25/54)Resolving deltas:  50% (27/54)Resolving deltas:  51% (28/54)Resolving deltas:  55% (30/54)Resolving deltas:  57% (31/54)Resolving deltas:  59% (32/54)Resolving deltas:  61% (33/54)Resolving deltas:  62% (34/54)Resolving deltas:  64% (35/54)Resolving deltas:  68% (37/54)Resolving deltas:  72% (39/54)Resolving deltas:  74% (40/54)Resolving deltas:  75% (41/54)Resolving deltas:  77% (42/54)Resolving deltas:  79% (43/54)Resolving deltas:  81% (44/54)Resolving deltas:  83% (45/54)Resolving deltas:  87% (47/54)Resolving deltas:  88% (48/54)Resolving deltas:  92% (50/54)Resolving deltas:  94% (51/54)Resolving deltas:  96% (52/54)Resolving deltas:  98% (53/54)Resolving deltas: 100% (54/54)Resolving deltas: 100% (54/54), done.
+2025-01-09 17:34:43.302 [info] [main] Log level: Info
+2025-01-09 17:34:43.302 [info] [main] Validating found git in: "git"
+2025-01-09 17:34:43.302 [info] [main] Using git "2.47.1" from "git"
+2025-01-09 17:34:43.302 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-09 17:34:43.302 [info] > git rev-parse --show-toplevel [32ms]
+2025-01-09 17:34:43.325 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2025-01-09 17:34:43.341 [info] [Model][openRepository] Opened repository: /home/lxrdxe7o/Git-repos/215_Project
+2025-01-09 17:34:43.392 [info] > git rev-parse --show-toplevel [13ms]
+2025-01-09 17:34:43.393 [info] > git config --get commit.template [29ms]
+2025-01-09 17:34:43.489 [info] > git rev-parse --show-toplevel [44ms]
+2025-01-09 17:34:43.507 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2025-01-09 17:34:43.526 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:34:43.527 [info] > git rev-parse --show-toplevel [21ms]
+2025-01-09 17:34:43.531 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-09 17:34:45.224 [info] > git rev-parse refs/remotes/origin/main [1698ms]
+2025-01-09 17:34:45.293 [info] > git status -z -uall [54ms]
+2025-01-09 17:34:45.293 [info] > git check-ignore -v -z --stdin [21ms]
+2025-01-09 17:34:45.294 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [39ms]
+2025-01-09 17:34:45.389 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [70ms]
+2025-01-09 17:34:45.409 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2025-01-09 17:34:45.409 [warning] [Git][config] git config failed: Failed to execute git
+2025-01-09 17:34:45.423 [info] > git config --get commit.template [66ms]
+2025-01-09 17:34:45.441 [info] > git reflog main --grep-reflog=branch: Created from *. [18ms]
+2025-01-09 17:34:45.491 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [35ms]
+2025-01-09 17:34:45.507 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-01-09 17:34:45.522 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [39ms]
+2025-01-09 17:34:45.569 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:34:45.570 [info] > git config --local branch.main.vscode-merge-base origin/main [49ms]
+2025-01-09 17:34:45.594 [info] > git rev-parse refs/remotes/origin/main [25ms]
+2025-01-09 17:34:45.627 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2025-01-09 17:34:45.642 [info] > git config --get commit.template [49ms]
+2025-01-09 17:34:45.663 [info] > git config --local branch.main.vscode-merge-base [21ms]
+2025-01-09 17:34:45.681 [info] > git config --get commit.template [55ms]
+2025-01-09 17:34:45.701 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [21ms]
+2025-01-09 17:34:45.764 [info] > git merge-base refs/heads/main refs/remotes/origin/main [41ms]
+2025-01-09 17:34:45.784 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [84ms]
+2025-01-09 17:34:45.813 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:34:45.815 [info] > git diff --name-status -z --diff-filter=ADMR 445739092883193dfab87db35763831374abefb9...refs/remotes/origin/main [30ms]
+2025-01-09 17:34:45.816 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [69ms]
+2025-01-09 17:34:45.836 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:34:45.836 [info] > git rev-parse refs/remotes/origin/main [23ms]
+2025-01-09 17:34:45.856 [info] > git rev-parse refs/remotes/origin/main [21ms]
+2025-01-09 17:34:45.904 [info] > git check-ignore -v -z --stdin [50ms]
+2025-01-09 17:34:45.904 [info] > git status -z -uall [32ms]
+2025-01-09 17:34:45.904 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2025-01-09 17:34:47.045 [info] > git diff --name-status -z --diff-filter=ADMR 445739092883193dfab87db35763831374abefb9 [3ms]
+2025-01-09 17:35:20.343 [info] > git check-ignore -v -z --stdin [2ms]
+2025-01-09 17:35:21.468 [info] > git check-ignore -v -z --stdin [2ms]
+2025-01-09 17:35:25.445 [info] > git check-ignore -v -z --stdin [2ms]
+2025-01-09 17:35:27.660 [info] > git show --textconv :src/App.java [39ms]
+2025-01-09 17:35:27.927 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [273ms]
+2025-01-09 17:35:28.000 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [48ms]
+2025-01-09 17:35:41.871 [info] > git blame --root --incremental 445739092883193dfab87db35763831374abefb9 -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [20ms]
+2025-01-09 17:35:42.616 [info] > git config --get commit.template [34ms]
+2025-01-09 17:35:42.617 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-01-09 17:35:42.648 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:35:42.652 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-01-09 17:35:42.742 [info] > git status -z -uall [56ms]
+2025-01-09 17:35:42.759 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+2025-01-09 17:35:47.822 [info] > git config --get commit.template [5ms]
+2025-01-09 17:35:47.860 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-09 17:35:47.887 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:35:47.891 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-01-09 17:35:47.991 [info] > git status -z -uall [71ms]
+2025-01-09 17:35:47.993 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-01-09 17:35:53.024 [info] > git config --get commit.template [2ms]
+2025-01-09 17:35:53.053 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-01-09 17:35:53.081 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:35:53.088 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-01-09 17:35:53.150 [info] > git status -z -uall [32ms]
+2025-01-09 17:35:53.153 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-01-09 17:36:46.205 [info] > git check-ignore -v -z --stdin [2ms]
+2025-01-09 17:36:59.422 [info] > git config --get commit.template [24ms]
+2025-01-09 17:36:59.424 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-09 17:36:59.447 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:36:59.449 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-09 17:36:59.496 [info] > git status -z -uall [25ms]
+2025-01-09 17:36:59.498 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-09 17:37:02.944 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [2ms]
+2025-01-09 17:37:02.964 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [3ms]
+2025-01-09 17:37:02.988 [info] > git show --textconv :src/App.java [2ms]
+2025-01-09 17:37:04.547 [info] > git config --get commit.template [22ms]
+2025-01-09 17:37:04.548 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-09 17:37:04.568 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:37:04.569 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-01-09 17:37:04.611 [info] > git status -z -uall [22ms]
+2025-01-09 17:37:04.612 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-09 17:51:05.215 [info] > git config --get commit.template [3ms]
+2025-01-09 17:51:05.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-09 17:51:05.259 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 17:51:05.261 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-09 17:51:05.310 [info] > git status -z -uall [25ms]
+2025-01-09 17:51:05.312 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-09 17:51:06.317 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [2ms]
+2025-01-09 17:51:06.340 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [3ms]
+2025-01-09 17:51:06.370 [info] > git show --textconv :src/App.java [2ms]
+2025-01-09 18:06:38.545 [info] > git show --textconv :src/App.java [29ms]
+2025-01-09 18:06:38.555 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [12ms]
+2025-01-09 18:06:38.584 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [4ms]
+2025-01-09 18:12:11.018 [info] [main] Log level: Info
+2025-01-09 18:12:11.018 [info] [main] Validating found git in: "git"
+2025-01-09 18:12:11.018 [info] [main] Using git "2.47.1" from "git"
+2025-01-09 18:12:11.018 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-09 18:12:11.018 [info] > git rev-parse --show-toplevel [17ms]
+2025-01-09 18:12:11.018 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2025-01-09 18:12:11.018 [info] [Model][openRepository] Opened repository: /home/lxrdxe7o/Git-repos/215_Project
+2025-01-09 18:12:11.019 [info] > git config --get commit.template [14ms]
+2025-01-09 18:12:11.019 [info] > git rev-parse --show-toplevel [16ms]
+2025-01-09 18:12:11.019 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-01-09 18:12:11.019 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:11.019 [info] > git rev-parse --show-toplevel [22ms]
+2025-01-09 18:12:11.028 [info] > git rev-parse refs/remotes/origin/main [14ms]
+2025-01-09 18:12:11.052 [info] > git status -z -uall [14ms]
+2025-01-09 18:12:11.054 [info] > git rev-parse --show-toplevel [27ms]
+2025-01-09 18:12:11.057 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-09 18:12:13.659 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2610ms]
+2025-01-09 18:12:14.682 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [998ms]
+2025-01-09 18:12:14.880 [info] > git check-ignore -v -z --stdin [155ms]
+2025-01-09 18:12:14.881 [info] > git config --local branch.main.vscode-merge-base [181ms]
+2025-01-09 18:12:14.902 [info] > git config --get commit.template [265ms]
+2025-01-09 18:12:15.025 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [125ms]
+2025-01-09 18:12:15.095 [info] > git merge-base refs/heads/main refs/remotes/origin/main [53ms]
+2025-01-09 18:12:15.186 [info] > git diff --name-status -z --diff-filter=ADMR 445739092883193dfab87db35763831374abefb9...refs/remotes/origin/main [73ms]
+2025-01-09 18:12:15.187 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [100ms]
+2025-01-09 18:12:15.230 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:15.237 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2025-01-09 18:12:15.309 [info] > git status -z -uall [55ms]
+2025-01-09 18:12:15.310 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [38ms]
+2025-01-09 18:12:15.469 [info] > git config --get commit.template [128ms]
+2025-01-09 18:12:17.579 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [51ms]
+2025-01-09 18:12:17.617 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:17.642 [info] > git rev-parse refs/remotes/origin/main [26ms]
+2025-01-09 18:12:17.690 [info] > git status -z -uall [30ms]
+2025-01-09 18:12:17.693 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2025-01-09 18:12:19.041 [info] > git diff --name-status -z --diff-filter=ADMR 445739092883193dfab87db35763831374abefb9 [5ms]
+2025-01-09 18:12:21.135 [info] > git config --get commit.template [5ms]
+2025-01-09 18:12:21.187 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-01-09 18:12:21.221 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:21.229 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2025-01-09 18:12:21.376 [info] > git status -z -uall [111ms]
+2025-01-09 18:12:21.376 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [67ms]
+2025-01-09 18:12:26.682 [info] > git config --get commit.template [51ms]
+2025-01-09 18:12:26.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-01-09 18:12:26.763 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:26.769 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-01-09 18:12:26.841 [info] > git status -z -uall [36ms]
+2025-01-09 18:12:26.842 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-09 18:12:31.897 [info] > git config --get commit.template [14ms]
+2025-01-09 18:12:31.939 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-01-09 18:12:31.970 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:31.976 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-01-09 18:12:32.054 [info] > git status -z -uall [44ms]
+2025-01-09 18:12:32.055 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2025-01-09 18:12:37.105 [info] > git config --get commit.template [19ms]
+2025-01-09 18:12:37.123 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2025-01-09 18:12:37.141 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:37.143 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-09 18:12:37.185 [info] > git status -z -uall [22ms]
+2025-01-09 18:12:37.186 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-09 18:12:42.233 [info] > git config --get commit.template [22ms]
+2025-01-09 18:12:42.235 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-09 18:12:42.255 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:42.256 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-09 18:12:42.296 [info] > git status -z -uall [21ms]
+2025-01-09 18:12:42.298 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-09 18:12:47.328 [info] > git config --get commit.template [7ms]
+2025-01-09 18:12:47.358 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-09 18:12:47.384 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:47.387 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-01-09 18:12:47.437 [info] > git status -z -uall [26ms]
+2025-01-09 18:12:47.439 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-09 18:12:48.568 [info] > git show --textconv :src/packages/Car.java [57ms]
+2025-01-09 18:12:48.570 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/packages/Car.java [9ms]
+2025-01-09 18:12:48.738 [info] > git cat-file -s 96c5213550aeed7cfe9ea124ceaabe6eb94da542 [122ms]
+2025-01-09 18:12:50.094 [info] > git show --textconv :src/App.java [38ms]
+2025-01-09 18:12:50.103 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [14ms]
+2025-01-09 18:12:50.161 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [15ms]
+2025-01-09 18:12:50.245 [info] > git blame --root --incremental 445739092883193dfab87db35763831374abefb9 -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [5ms]
+2025-01-09 18:12:57.723 [info] > git config --get commit.template [4ms]
+2025-01-09 18:12:57.789 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [32ms]
+2025-01-09 18:12:57.817 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2025-01-09 18:12:57.846 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:12:57.847 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [30ms]
+2025-01-09 18:12:57.848 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-01-09 18:12:57.902 [info] > git status -z -uall [26ms]
+2025-01-09 18:12:57.929 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+2025-01-09 18:12:57.935 [info] > git show --textconv :src/App.java [7ms]
+2025-01-09 18:13:05.913 [info] > git check-ignore -v -z --stdin [2ms]
+2025-01-09 18:13:06.861 [info] > git config --get commit.template [5ms]
+2025-01-09 18:13:06.899 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-01-09 18:13:06.932 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:13:06.935 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-01-09 18:13:07.003 [info] > git status -z -uall [37ms]
+2025-01-09 18:13:07.005 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-01-09 18:13:27.225 [info] > git config --get commit.template [29ms]
+2025-01-09 18:13:27.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-09 18:13:27.250 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:13:27.251 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-09 18:13:27.303 [info] > git status -z -uall [24ms]
+2025-01-09 18:13:27.304 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-09 18:13:35.070 [info] > git show --textconv :src/App.java [27ms]
+2025-01-09 18:13:35.077 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [9ms]
+2025-01-09 18:13:35.108 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [4ms]
+2025-01-09 18:14:11.881 [info] > git config --get commit.template [27ms]
+2025-01-09 18:14:11.882 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-09 18:14:11.906 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:14:11.908 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-01-09 18:14:11.958 [info] > git status -z -uall [24ms]
+2025-01-09 18:14:11.960 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-09 18:14:22.242 [info] > git show --textconv :src/App.java [32ms]
+2025-01-09 18:14:22.246 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [5ms]
+2025-01-09 18:14:22.280 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [4ms]
+2025-01-09 18:14:41.016 [info] > git config --get commit.template [26ms]
+2025-01-09 18:14:41.018 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-09 18:14:41.040 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:14:41.042 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-09 18:14:41.084 [info] > git status -z -uall [22ms]
+2025-01-09 18:14:41.085 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-09 18:14:49.712 [info] > git check-ignore -v -z --stdin [2ms]
+2025-01-09 18:15:12.728 [info] > git config --get commit.template [25ms]
+2025-01-09 18:15:12.729 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-09 18:15:12.751 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:15:12.754 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-01-09 18:15:12.801 [info] > git status -z -uall [24ms]
+2025-01-09 18:15:12.803 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-09 18:16:13.521 [info] > git show --textconv :src/App.java [45ms]
+2025-01-09 18:16:13.535 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [17ms]
+2025-01-09 18:16:13.579 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [9ms]
+2025-01-09 18:19:08.999 [info] > git show --textconv :src/App.java [30ms]
+2025-01-09 18:19:09.003 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [6ms]
+2025-01-09 18:19:09.035 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [4ms]
+2025-01-09 18:21:25.160 [info] > git config --get commit.template [3ms]
+2025-01-09 18:21:25.190 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-09 18:21:25.217 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:21:25.219 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-01-09 18:21:25.271 [info] > git status -z -uall [27ms]
+2025-01-09 18:21:25.273 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-09 18:21:34.229 [info] > git show --textconv :src/App.java [45ms]
+2025-01-09 18:21:34.236 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [10ms]
+2025-01-09 18:21:34.265 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [3ms]
+2025-01-09 18:21:44.072 [info] > git config --get commit.template [3ms]
+2025-01-09 18:21:44.111 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-01-09 18:21:44.144 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:21:44.147 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-01-09 18:21:44.217 [info] > git status -z -uall [36ms]
+2025-01-09 18:21:44.220 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-01-09 18:21:55.217 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [8ms]
+2025-01-09 18:24:47.549 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [10ms]
+2025-01-09 18:25:07.240 [info] > git add -A -- . [11ms]
+2025-01-09 18:25:07.297 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [31ms]
+2025-01-09 18:25:07.297 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-01-09 18:25:07.337 [info] > git config --get-all user.name [8ms]
+2025-01-09 18:25:07.385 [info] > git config --get commit.template [5ms]
+2025-01-09 18:25:07.425 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-01-09 18:25:07.459 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:25:07.462 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-01-09 18:25:07.521 [info] > git status -z -uall [28ms]
+2025-01-09 18:25:07.524 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-01-09 18:25:10.606 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [4ms]
+2025-01-09 18:25:10.634 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [3ms]
+2025-01-09 18:25:10.666 [info] > git show --textconv :src/App.java [3ms]
+2025-01-09 18:30:33.740 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [8ms]
+2025-01-09 18:30:33.768 [info] > git config --get commit.template [2ms]
+2025-01-09 18:30:33.819 [info] > git config --get commit.template [26ms]
+2025-01-09 18:30:33.824 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-01-09 18:30:33.854 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:30:33.858 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-01-09 18:30:33.921 [info] > git status -z -uall [38ms]
+2025-01-09 18:30:33.924 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-01-09 18:30:33.988 [info] > git merge-base refs/heads/main refs/remotes/origin/main [10ms]
+2025-01-09 18:30:34.019 [info] > git diff --name-status -z --diff-filter=ADMR 445739092883193dfab87db35763831374abefb9...refs/remotes/origin/main [3ms]
+2025-01-09 18:30:34.110 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [37ms]
+2025-01-09 18:30:34.112 [info] > git config --get commit.template [4ms]
+2025-01-09 18:30:34.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-09 18:30:34.172 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/lxrdxe7o/Git-repos/215_Project/.git/refs/remotes/origin/main'
+2025-01-09 18:30:34.175 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-01-09 18:30:34.225 [info] > git status -z -uall [25ms]
+2025-01-09 18:30:34.226 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-09 18:30:34.952 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [1ms]
+2025-01-09 18:30:34.975 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [2ms]
+2025-01-09 18:30:35.000 [info] > git show --textconv :src/App.java [2ms]
+2025-01-09 18:30:49.846 [info] > git log --oneline --cherry main...main@{upstream} -- [5ms]
+2025-01-09 18:30:50.725 [info] > git pull --tags origin main [841ms]
+2025-01-09 18:30:50.725 [info] From https://github.com/lxrdxe7o/215_Project
+ * branch            main       -> FETCH_HEAD
+2025-01-09 18:30:51.923 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [2ms]
+2025-01-09 18:30:51.947 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [2ms]
+2025-01-09 18:30:51.974 [info] > git show --textconv :src/App.java [3ms]
+2025-01-09 18:30:52.863 [info] > git push origin main:main [2111ms]
+2025-01-09 18:30:52.863 [info] To https://github.com/lxrdxe7o/215_Project.git
+   4457390..a1ed83a  main -> main
+2025-01-09 18:30:52.912 [info] > git config --get commit.template [25ms]
+2025-01-09 18:30:52.913 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-09 18:30:52.989 [info] > git status -z -uall [53ms]
+2025-01-09 18:30:52.989 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+2025-01-09 18:30:53.027 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2025-01-09 18:30:53.084 [info] > git diff --name-status -z --diff-filter=ADMR a1ed83a28761b20eea33f08ff4a1dfc5e2985f74...refs/remotes/origin/main [32ms]
+2025-01-09 18:30:53.093 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [9ms]
+2025-01-09 18:30:54.078 [info] > git config --get commit.template [26ms]
+2025-01-09 18:30:54.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-09 18:30:54.132 [info] > git status -z -uall [27ms]
+2025-01-09 18:30:54.132 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-09 18:30:54.163 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [2ms]
+2025-01-09 18:30:54.188 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [2ms]
+2025-01-09 18:30:54.230 [info] > git show --textconv :src/App.java [2ms]
+2025-01-09 18:31:01.058 [info] > git fetch [935ms]
+2025-01-09 18:31:01.107 [info] > git config --get commit.template [24ms]
+2025-01-09 18:31:01.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-01-09 18:31:01.158 [info] > git status -z -uall [25ms]
+2025-01-09 18:31:01.159 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-01-09 18:31:02.282 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [2ms]
+2025-01-09 18:31:02.305 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [2ms]
+2025-01-09 18:31:02.329 [info] > git show --textconv :src/App.java [2ms]
+2025-01-09 18:31:35.391 [info] > git blame --root --incremental a1ed83a28761b20eea33f08ff4a1dfc5e2985f74 -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [8ms]
+2025-01-10 02:01:24.338 [info] > git config --get commit.template [74ms]
+2025-01-10 02:01:24.341 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [6ms]
+2025-01-10 02:01:24.402 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [36ms]
+2025-01-10 02:01:24.413 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2025-01-10 02:01:24.469 [info] > git show --textconv :src/App.java [14ms]
+2025-01-10 02:01:24.542 [info] > git status -z -uall [35ms]
+2025-01-10 02:01:24.544 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-01-10 02:01:25.204 [info] > git fetch [992ms]
+2025-01-10 02:01:25.249 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-10 02:01:25.250 [info] > git config --get commit.template [23ms]
+2025-01-10 02:01:25.292 [info] > git status -z -uall [23ms]
+2025-01-10 02:01:25.293 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-10 02:01:26.419 [info] > git ls-files --stage -- /home/lxrdxe7o/Git-repos/215_Project/src/App.java [2ms]
+2025-01-10 02:01:26.442 [info] > git cat-file -s df33e0e748f72ba9e3837e70f9486e5298805b76 [2ms]
+2025-01-10 02:01:26.471 [info] > git show --textconv :src/App.java [4ms]

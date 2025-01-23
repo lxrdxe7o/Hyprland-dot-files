@@ -1,0 +1,24 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/sponsor.pdf
+File2[$e]=$HOME/Downloads/Java The Complete Reference Ninth Edition.pdf
+File3[$e]=$HOME/Downloads/pol.pdf
+File4[$e]=$HOME/Downloads/ALPHATEC1.pdf
+File5[$e]=$HOME/Downloads/Discrete Mathematics and Its Applications_by Kenneth H. Rosen_7th_Edition (1) (1)-1-1.pdf
+Name1[$e]=sponsor.pdf
+Name2[$e]=Java The Complete Reference Ninth Edition.pdf
+Name3[$e]=pol.pdf
+Name4[$e]=ALPHATEC1.pdf
+Name5[$e]=Discrete Mathematics and Its Applications_by Kenneth H. Rosen_7th_Edition (1) (1)-1-1.pdf
+
+[UiSettings]
+ColorScheme=KvBrown
