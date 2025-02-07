@@ -11,13 +11,13 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 export PATH="$HOME/.cargo/bin:$PATH"
 
-plugins=(F-Sy-H zsh-autosuggestions zsh-autocomplete you-should-use)
+plugins=(F-Sy-H zsh-autosuggestions zsh-autocomplete you-should-use git)
 
 source $ZSH/oh-my-zsh.sh
 
 # Aliases being used
 
-alias ls='lsd' # Next-gen ls
+alias ls='lsd' 
 alias l='ls -l'
 alias la='ls -a'
 alias lla='ls -la'
@@ -38,6 +38,6 @@ export NVM_DIR="$HOME/.nvm"
 eval "$(atuin init zsh)"
 
 # This is for zellij
-source .bashrc
+# source .bashrc
 
 eval "$(zoxide init zsh)"
